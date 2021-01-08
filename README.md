@@ -1,8 +1,8 @@
 ## 👋 I'm Monica 🍀
 
-*💻 I’m currently open to work as a Web Developer 
-*🌱 I've studied Ruby on Rails, React and Javascript 
-*👯 I’m looking to collaborate on open source projects
+- 💻 I’m currently open to work as a Web Developer 
+- 🌱 I've studied Ruby on Rails, React and Javascript 
+- 👯 I’m looking to collaborate on open source projects
 - - - -
-> 📫 __How to reach me: monicandreoli@gmail.com
-> 🖇 See my Linkedin profile here 👉🏼 www.linkedin.com/in/monicandreoli
+-  📫 __How to reach me: monicandreoli@gmail.com
+-  🖇 __See my Linkedin profile here 👉🏼 www.linkedin.com/in/monicandreoli
