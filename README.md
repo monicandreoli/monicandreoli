@@ -1,6 +1,6 @@
 ## 👋 I'm Monica 🍀 
 
-- 💻 I’m currently open to work as a Web Developer 
+- 💻 I’m currently working at Mentorjam as a Full Stack Developer 
 - 🌱 I've studied Ruby on Rails, React and Javascript 
 - 👯 I’m looking to collaborate on open source projects
 
